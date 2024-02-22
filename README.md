@@ -2,11 +2,11 @@
 
 ## 🎯 My Objectives
 * To share my work
-* Receive feedback on improving methods
-* Serve as reference material for anyone trying to learn how to use Machine Learning Models to create Regression Models. 
+* Receive feedback on improving my methods
+* Serve as reference material for anyone trying to learn how to use Machine Learning Models to create Regression Models using keras and tensorflow. 
 
 ## 📓 Project Description 
-* **Objective** - To understand data and build a regression model for Shinkansen company to predict if a Shinkansen passenger will be satisfied with the travel experience.
+* **Objective** - To understand the data and build a regression model for Shinkansen company to predict if a Shinkansen passenger will be satisfied with their travel experience.
 * **Problem Statement** - Perform EDA on data, build regression models using collaborative filtering and matrix factorization algorithms,tune the hyperparameters, and provide business recommendations.
 * **Data Source** - Provided by Great Learning as materials for the project. [Can be found in repository]
 
@@ -58,7 +58,7 @@
 2. Kindly contact me if you want to know more 😃
 
 **For Learners**
-1. Download the dataset from [link]() and the .ipynb file.
+1. Download the dataset from [link](https://drive.google.com/drive/folders/1GglMv8vI2ZoGUE3MuUkjTo9xY_rnDqvj?usp=drive_link) and the .ipynb file.
 2. Open the .ipynb file using Google Colaboratory or jupyter notebook.
 3. Read through the project context, objective, data description and dictionary.
 4. Try and run the code in the .ipynb notebook, cell by cell. As the codes are well-commented, try to understand what each line of code does.
