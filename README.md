@@ -1,4 +1,4 @@
-# Hackathon: Regression Models for Shinkansen Satisfaction [Still in process of uploading 🙇]
+# Hackathon: Regression Models for Shinkansen Satisfaction 
 
 ## 🎯 My Objectives
 * To share my work
